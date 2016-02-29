@@ -31,5 +31,5 @@ The following options can be used to further select and drill down on to a topic
 #### Show consumer lag by partition
 `--show-consumer-lag`
 
-*(If a specific topic/consumer is not selected, all kakfa topics and thier consumer lags are listed)*
+*(If a specific topic/consumer is not selected, all kakfa topics and their consumer lags are listed)*
 

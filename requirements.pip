@@ -1,0 +1,8 @@
+gevent==1.1rc5
+greenlet==0.4.9
+kazoo==2.2.1
+pykafka==2.2.1
+six==1.10.0
+tabulate==0.7.5
+termcolor==1.1.0
+wheel==0.24.0
